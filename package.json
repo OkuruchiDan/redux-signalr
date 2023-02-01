@@ -1,6 +1,6 @@
 {
   "name": "updated-redux-signalr",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "Redux middleware for SignalR (ASP.NET Core)",
   "keywords": [
     "SignalR",
