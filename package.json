@@ -28,7 +28,7 @@
     "type": "git",
     "url": "https://github.com/Omhet/redux-signalr.git"
   },
-  "author": "Vladimir Ivanov (Omhet) <omhetehmo@yandex.ru> (https://omhet.github.io/)",
+  "author": "Bohdan Skrypnyk forked react-signalR",
   "license": "MIT",
   "private": false,
   "engines": {
@@ -36,7 +36,7 @@
   },
   "engineStrict": true,
   "peerDependencies": {
-    "@microsoft/signalr": "^5.0.0",
+    "@microsoft/signalr": "^7.0.2",
     "redux": "^4.0.5"
   },
   "devDependencies": {
