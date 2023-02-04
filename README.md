@@ -1,18 +1,17 @@
-# Redux middleware for SignalR (ASP.NET Core)
+### Forked from [redux-signalr](https://www.npmjs.com/package/redux-signalr?activeTab=dependencies) redux middleware for SignalR (ASP.NET Core)
+### Updated [@microsoft/signalr](https://www.npmjs.com/package/@microsoft/signalr) dependency to v7.0.2
 
-[![NPM Version](https://img.shields.io/npm/v/redux-signalr.svg?style=flat)](https://www.npmjs.com/package/redux-signalr)
-[![NPM License](https://img.shields.io/npm/l/all-contributors.svg?style=flat)](https://github.com/Omhet/redux-signalr/blob/master/LICENSE)
 
 ## Installation
 
 ```bash
-npm install redux-signalr
+npm install updated-redux-signalr
 ```
 
 or
 
 ```bash
-yarn add redux-signalr
+yarn add updated-redux-signalr
 ```
 
 ## Usage
